@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-# <Greta Haydock>'s First CS193 Homework
+# Greta Haydock's First CS193 Homework
 
 Favorite things about CS193
 - The class size
