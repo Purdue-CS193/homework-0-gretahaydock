@@ -15,16 +15,22 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# test
+
 - Bulleted
 - List
+- test
 
 1. Numbered
 2. List
+3. test
 
 **Bold** and _Italic_ and `Code` text
+**Hello** and _hi_ and 'bye'
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
