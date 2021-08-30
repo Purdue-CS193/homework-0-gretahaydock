@@ -2,9 +2,10 @@
 # Greta Haydock's First CS193 Homework
 
 Favorite things about CS193
-- The class size
+- The smaller class size
 - its helpful for computer science
 - makes me excited to learn more
+- I know a couple people in the class
   
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
